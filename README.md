@@ -19,7 +19,6 @@ The main objective is to automate the process of solving Sudoku puzzles directly
 
 ## 📂 Repository Structure
 
-```text
 ├── Main.ipynb                  # End-to-end overview of the entire system
 ├── RealTimeSudokuSolver.ipynb  # Real-time detection, recognition, solving, and display
 ├── sudokuSolver.ipynb          # Sudoku solving algorithm (backtracking)
